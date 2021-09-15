@@ -4,7 +4,7 @@ random_number = random.randint(1, 9)
 
 name = input("What is your name?")
 
-question = input("What is your question for the mighty 8-Ball?")
+question = input("What is your question for the all-knowing 8-Ball?")
 
 answer = str("")
 
